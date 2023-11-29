@@ -1,0 +1,2 @@
+Main-Class: com.oxytoca.gameoflife.Main
+class-path: bin/
